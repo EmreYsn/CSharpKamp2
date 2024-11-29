@@ -1,3 +1,7 @@
+1.projede yazdırma komutları ve temel birkaç değişken gösterilmiştir.
+
+2.projede double , char değişkenler ve bunların örneklerde nasıl kullanıldığı anlatılmıştır. 
+
 3.projede if-else tarzı karar yapıları incelenmiştir.
 
 4.projede for veya while tarzı iki tane döngü ve örneklerde nasıl kullanılabileceği gösterilmiştir.
